@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929089683051",
+    "project_id": "cleanflutter-b4fec",
+    "storage_bucket": "cleanflutter-b4fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929089683051:android:18544ecff8933ef8317b2e",
+        "android_client_info": {
+          "package_name": "com.example.tdd_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmAREWdVV-ZO_hoak_n553_OsPLyqAfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
